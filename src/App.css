@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +34,16 @@
   }
   to {
     transform: rotate(360deg);
+  }
+} */
+
+
+.main {
+  margin-left: 110px;
+}
+
+@media screen and (max-width: 1024px) {
+  .main {
+    margin-left: 0;
   }
 }

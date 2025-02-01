@@ -13,7 +13,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-            I am Bilal Arshad, a passionate developer from Lahore, Pakistan with expertise in 
+            I'm Bilal Arshad, a passionate developer from Lahore, Pakistan with expertise in 
             multiple programming languages and technologies, including JS, Python and C++.
              I also have extensive experience in web designing and development, creating
              user-friendly and visually appealing websites.
